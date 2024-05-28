@@ -1,7 +1,7 @@
 export const navItems = [
   { name: "About", link: "#about" },
   { name: "Projects", link: "#projects" },
-  { name: "Stack", link: "#testimonials" },
+  { name: "Stack", link: "#stack" },
   { name: "Contact", link: "#contact" },
 ];
 
@@ -72,18 +72,18 @@ export const gridItems = [
 export const projects = [
   {
     id: 1,
-    title: "3D Solar System Planets to Explore",
-    des: "Explore the wonders of our solar system with this captivating 3D simulation of the planets using Three.js.",
-    img: "/p1.svg",
-    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
-    link: "/ui.earth.com",
+    title: "FigPro",
+    des: "A Figma clone that helps you design and prototype faster with components!",
+    img: "/figpro.png",
+    iconLists: ["/re.svg", "/tail.svg", "/ts.svg","/next.svg"],
+    link: "https://github.com/",
   },
   {
     id: 2,
-    title: "Yoom - Video Conferencing App",
-    des: "Simplify your video conferencing experience with Yoom. Seamlessly connect with colleagues and friends.",
-    img: "/p2.svg",
-    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
+    title: "CryptoHunt",
+    des: "A real-time cryptocurrency tracker that helps you hunt the best deals!",
+    img: "/crpyto.png",
+    iconLists: ["/re.svg", "/tail.svg", "/js.svg", "/c.svg"],
     link: "/ui.yoom.com",
   },
   {
@@ -96,10 +96,10 @@ export const projects = [
   },
   {
     id: 4,
-    title: "Animated Apple Iphone 3D Website",
-    des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
-    img: "/p4.svg",
-    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
+    title: "CodeX",
+    des: "A code editor that helps you write and test your code in real-time with a live preview.",
+    img: "/editor.png",
+    iconLists: ["/re.svg", "/tail.svg", "/js.svg",],
     link: "/ui.apple.com",
   },
 ];
