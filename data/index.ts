@@ -75,7 +75,7 @@ export const projects = [
     title: "FigPro",
     des: "A Figma clone that helps you design and prototype faster with components!",
     img: "/figpro.png",
-    iconLists: ["/re.svg", "/tail.svg", "/ts.svg","/next.svg"],
+    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/next.svg"],
     link: "https://github.com/",
   },
   {
@@ -84,7 +84,7 @@ export const projects = [
     des: "A real-time cryptocurrency tracker that helps you hunt the best deals!",
     img: "/crpyto.png",
     iconLists: ["/re.svg", "/tail.svg", "/js.svg", "/c.svg"],
-    link: "/ui.yoom.com",
+    link: "https://crypto-hunt1.vercel.app/",
   },
   {
     id: 3,
@@ -92,18 +92,17 @@ export const projects = [
     des: "A REAL Software-as-a-Service app with AI features and a payments and credits system using the latest tech stack.",
     img: "/p3.svg",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
-    link: "/ui.aiimg.com",
+    link: "",
   },
   {
     id: 4,
     title: "CodeX",
     des: "A code editor that helps you write and test your code in real-time with a live preview.",
     img: "/editor.png",
-    iconLists: ["/re.svg", "/tail.svg", "/js.svg",],
-    link: "/ui.apple.com",
+    iconLists: ["/re.svg", "/tail.svg", "/js.svg"],
+    link: "https://fig-proo.vercel.app/",
   },
 ];
-
 export const testimonials = [
   {
     quote:
