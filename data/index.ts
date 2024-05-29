@@ -1,3 +1,5 @@
+
+
 export const navItems = [
   { name: "About", link: "#about" },
   { name: "Projects", link: "#projects" },
@@ -241,7 +243,7 @@ export const socialMedia = [
   {
     id: 4,
     img: "/cv.svg",
-    link:"/Atharva_Sachan_Resume.pdf",
+    link:"/AtharvaSachan_resume1.pdf",
 
     download:true
   },
