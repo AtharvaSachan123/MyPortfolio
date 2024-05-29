@@ -88,7 +88,7 @@ export const projects = [
   },
   {
     id: 3,
-    title: "AI Image SaaS - Canva Application",
+    title: "Imaginify",
     des: "A REAL Software-as-a-Service app with AI features and a payments and credits system using the latest tech stack.",
     img: "/p3.svg",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
@@ -100,7 +100,7 @@ export const projects = [
     des: "A code editor that helps you write and test your code in real-time with a live preview.",
     img: "/editor.png",
     iconLists: ["/re.svg", "/tail.svg", "/js.svg"],
-    link: "https://fig-proo.vercel.app/",
+    link: "https://code-editor11.vercel.app/",
   },
 ];
 export const testimonials = [
