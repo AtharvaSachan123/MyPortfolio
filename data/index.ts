@@ -201,7 +201,7 @@ export const workExperience = [
   },
   {
     id: 2,
-    title: "SoftWare Engineer Intern",
+    title: "Software Engineer Intern",
     desc: "My knowledge of DSA could help me to solve real-world problems.",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp2.svg",
@@ -226,13 +226,23 @@ export const socialMedia = [
   {
     id: 1,
     img: "/git.svg",
+    link:"https://github.com/AtharvaSachan123"
   },
   {
     id: 2,
     img: "/twit.svg",
+    link:"https://x.com/Atharva_Sachan_"
   },
   {
     id: 3,
     img: "/link.svg",
+    link:"https://www.linkedin.com/in/atharva-sachan-975848252/"
+  },
+  {
+    id: 4,
+    img: "/cv.svg",
+    link:"/Atharva_Sachan_Resume.pdf",
+
+    download:true
   },
 ];
