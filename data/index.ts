@@ -78,7 +78,7 @@ export const projects = [
     des: "A Figma clone that helps you design and prototype faster with components!",
     img: "/figpro.png",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/next.svg"],
-    link: "https://github.com/",
+    link:"https://fig-proo.vercel.app/",
   },
   {
     id: 2,
