@@ -57,7 +57,7 @@ const Hero = () => {
           />
 
           <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
-            Namaste! I&apos;m Atharva, a FrontEnd Developer based in India.
+            Namaste! I&apos;m Atharva, a Full Stack Developer based in India.
           </p>
 
           <a href="#about">
